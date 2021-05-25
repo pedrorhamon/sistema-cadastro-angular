@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "comprador": "Pedro Rhamon",
+      "price": 2
+    },
+    {
+      "id": 2,
+      "name": "Monitor",
+      "comprador": "Emylli Thayanne",
+      "price": 2
+    },
+    {
+      "id": 3,
+      "name": "PlayStation 4",
+      "comprador": "Andrey Rhenan",
+      "price": 4
+    }
+  ]
+}
