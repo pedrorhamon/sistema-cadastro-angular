@@ -1,6 +1,7 @@
 .header{
     display: flex;
     align-items: center;   
+    background-color: rgb(191, 40, 40);
 }
 
 .header a {
