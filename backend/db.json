@@ -4,19 +4,22 @@
       "id": 1,
       "name": "Caneta",
       "comprador": "Pedro Rhamon",
-      "price": 2
+      "price": 2.00,
+      "dataCompra": "2021/06/15"
     },
     {
       "id": 2,
       "name": "Monitor",
       "comprador": "Emylli Thayanne",
-      "price": 2
+      "price": 500.00,
+      "dataCompra": "2021/04/15"
     },
     {
       "id": 3,
       "name": "PlayStation 4",
       "comprador": "Andrey Rhenan",
-      "price": 4
+      "price": 5000.00,
+      "dataCompra": "2021/05/15"
     }
   ]
 }
