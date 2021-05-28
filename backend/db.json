@@ -20,13 +20,6 @@
       "cliente": "Andrey Rhenan",
       "price": 5000,
       "dataCompra": "2021/05/15"
-    },
-    {
-      "name": "Pc Game",
-      "cliente": "Adilson Ferreira",
-      "price": "10.000.00",
-      "dataCompra": "28/05/2021",
-      "id": 4
     }
   ]
 }
