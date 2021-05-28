@@ -5,3 +5,7 @@ button{
 .create{
     background-color: rgb(191, 40, 40);
 }
+
+.cancel{
+    background-color: #000000;
+}
