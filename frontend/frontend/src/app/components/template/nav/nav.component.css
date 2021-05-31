@@ -1,3 +1,7 @@
+*{
+    background-color: rgb(204, 33, 33);
+}
+
 .sidenav{
     width: 200px;
 }
