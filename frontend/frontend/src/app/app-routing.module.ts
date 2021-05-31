@@ -10,21 +10,21 @@ import { ProductUpdateComponent } from './components/product/product-update/prod
 
 const routes: Routes = [
   {
-  path: "",
-  component: HomeComponent
-},
-{
-  path: "products",
-  component: ProductCrudComponent
-},
-{
-  path: "products/create",
-  component: ProductCreateComponent
-},
-{
-  path: "products/update/:id",
-  component: ProductUpdateComponent
-}
+    path: "",
+    component: HomeComponent
+  },
+  {
+    path: "products",
+    component: ProductCrudComponent
+  },
+  {
+    path: "products/create",
+    component: ProductCreateComponent
+  },
+  {
+    path: "products/update/:id",
+    component: ProductUpdateComponent
+  }
 
 ];
 

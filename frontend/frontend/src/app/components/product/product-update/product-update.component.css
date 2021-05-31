@@ -1,0 +1,16 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin: 20px 15px 0px 0px;
+}
+
+.update{
+    background-color: rgb(191, 40, 40);
+}
+
+.cancel{
+    background-color: #000000;
+}
